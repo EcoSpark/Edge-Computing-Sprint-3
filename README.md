@@ -42,8 +42,10 @@ Por fim, incluímos um display que exibe os materiais que foram inseridos na lix
 Essa combinação de hardware e plataforma IoT nos permitiu criar um sistema altamente eficiente para monitorar e registrar os materiais presentes na lixeira, contribuindo significativamente para a gestão inteligente de resíduos em nossas lixeiras e promovendo práticas mais sustentáveis.
 
 
-
+<div align="center">
 <img src="img/arquitetura.jpg">
+
+</div>
 ___
    
 ## Pré-requisitos
