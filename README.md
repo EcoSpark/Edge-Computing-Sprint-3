@@ -45,7 +45,7 @@ Essa combinação de hardware e plataforma IoT nos permitiu criar um sistema alt
 
 <img src="img/arquitetura.jpg">
 ___
-   Verifica os matérias disponíveis e com a central
+   
 ## Pré-requisitos
 
 Para utilizar este projeto, você precisará de:
