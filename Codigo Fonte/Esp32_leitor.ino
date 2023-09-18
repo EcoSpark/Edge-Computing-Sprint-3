@@ -178,7 +178,7 @@ void send_codeQR(void) {
 
       strncat(postData, anyData, 100);
 
-    strcpy(anyData1, ",\n\t\"unit\": \"lux\"\n\t}\n");
+      strcpy(anyData1, ",\n\t\"unit\": \"lux\"\n\t}\n");
 
       strncat (postData, anyData1, 100);
 
